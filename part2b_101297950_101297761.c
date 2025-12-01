@@ -1,5 +1,3 @@
-// part2b.c - Synchronized version using semaphores
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
